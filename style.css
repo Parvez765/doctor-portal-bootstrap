@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.header-title{
+    font-size: 55px;
+}
+.list{
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+    
